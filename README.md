@@ -21,6 +21,9 @@ You are given an API bool isBadVersion(version) which returns whether version is
 ## Constraints:
 - 1 <= bad <= n <= 2^31 - 1
 
+## first Solution
+[LeetCode](https://leetcode.com/submissions/detail/706767503/)
+
 # final Solution
 [LeetCode]()
 
